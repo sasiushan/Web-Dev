@@ -1,3 +1,3 @@
-WELCOME TO JAVSCRIPT PROJECTS 
+JAVSCRIPT PROJECTS 
 
-This repo contains folders related to javascript content.
+This repo contains web application projects, based on javascript.
